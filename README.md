@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @swayambiswal007
-- 👀 I’m interested in web design, web dev
+- 👀 I’m interested in web design, web dev, cv .
 - 🌱 I’m currently learning cv and web dev
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
